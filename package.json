@@ -1,0 +1,24 @@
+{
+  "name": "check-device-samplingrate",
+  "version": "0.1.0",
+  "description": "Checks the device sampling rate and outputs the time it took to read 100 samples",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadganlab/check-device-samplingrate.git"
+  },
+  "author": "Sadra Khosravi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadganlab/check-device-samplingrate/issues"
+  },
+  "homepage": "https://github.com/shadganlab/check-device-samplingrate#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "tsc": "^2.0.4",
+    "typescript": "^4.6.3"
+  }
+}
